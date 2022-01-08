@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "c3f495c8",
+   "id": "9641b6f2",
    "metadata": {
     "execution": {
      "iopub.execute_input": "2022-01-06T14:39:36.743284Z",
@@ -10,10 +10,10 @@
      "iopub.status.idle": "2022-01-06T14:39:36.79785Z"
     },
     "papermill": {
-     "duration": 0.047935,
-     "end_time": "2022-01-08T08:35:10.519577",
+     "duration": 0.066005,
+     "end_time": "2022-01-08T17:04:46.938153",
      "exception": false,
-     "start_time": "2022-01-08T08:35:10.471642",
+     "start_time": "2022-01-08T17:04:46.872148",
      "status": "completed"
     },
     "tags": []
@@ -25,13 +25,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e7d374b7",
+   "id": "1eb6465b",
    "metadata": {
     "papermill": {
-     "duration": 0.044405,
-     "end_time": "2022-01-08T08:35:10.611580",
+     "duration": 0.061432,
+     "end_time": "2022-01-08T17:04:47.060496",
      "exception": false,
-     "start_time": "2022-01-08T08:35:10.567175",
+     "start_time": "2022-01-08T17:04:46.999064",
      "status": "completed"
     },
     "tags": []
@@ -45,13 +45,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "447d783a",
+   "id": "4a6524b1",
    "metadata": {
     "papermill": {
-     "duration": 0.045126,
-     "end_time": "2022-01-08T08:35:10.701639",
+     "duration": 0.061323,
+     "end_time": "2022-01-08T17:04:47.184402",
      "exception": false,
-     "start_time": "2022-01-08T08:35:10.656513",
+     "start_time": "2022-01-08T17:04:47.123079",
      "status": "completed"
     },
     "tags": []
@@ -64,19 +64,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "5de8fcb4",
+   "id": "47a8be9e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-01-08T08:35:10.794551Z",
-     "iopub.status.busy": "2022-01-08T08:35:10.791783Z",
-     "iopub.status.idle": "2022-01-08T08:35:11.276607Z",
-     "shell.execute_reply": "2022-01-08T08:35:11.275214Z"
+     "iopub.execute_input": "2022-01-08T17:04:47.315326Z",
+     "iopub.status.busy": "2022-01-08T17:04:47.312118Z",
+     "iopub.status.idle": "2022-01-08T17:04:47.811772Z",
+     "shell.execute_reply": "2022-01-08T17:04:47.810710Z"
     },
     "papermill": {
-     "duration": 0.531947,
-     "end_time": "2022-01-08T08:35:11.276786",
+     "duration": 0.565986,
+     "end_time": "2022-01-08T17:04:47.811957",
      "exception": false,
-     "start_time": "2022-01-08T08:35:10.744839",
+     "start_time": "2022-01-08T17:04:47.245971",
      "status": "completed"
     },
     "tags": []
@@ -123,13 +123,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "bfcd1210",
+   "id": "c4a5b20a",
    "metadata": {
     "papermill": {
-     "duration": 0.049359,
-     "end_time": "2022-01-08T08:35:11.379681",
+     "duration": 0.067956,
+     "end_time": "2022-01-08T17:04:47.952885",
      "exception": false,
-     "start_time": "2022-01-08T08:35:11.330322",
+     "start_time": "2022-01-08T17:04:47.884929",
      "status": "completed"
     },
     "tags": []
@@ -141,19 +141,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "a5eb3698",
+   "id": "627b4188",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-01-08T08:35:11.519881Z",
-     "iopub.status.busy": "2022-01-08T08:35:11.485399Z",
-     "iopub.status.idle": "2022-01-08T08:35:11.606026Z",
-     "shell.execute_reply": "2022-01-08T08:35:11.604265Z"
+     "iopub.execute_input": "2022-01-08T17:04:48.124744Z",
+     "iopub.status.busy": "2022-01-08T17:04:48.092540Z",
+     "iopub.status.idle": "2022-01-08T17:04:48.223313Z",
+     "shell.execute_reply": "2022-01-08T17:04:48.221306Z"
     },
     "papermill": {
-     "duration": 0.176508,
-     "end_time": "2022-01-08T08:35:11.606169",
+     "duration": 0.203465,
+     "end_time": "2022-01-08T17:04:48.223485",
      "exception": false,
-     "start_time": "2022-01-08T08:35:11.429661",
+     "start_time": "2022-01-08T17:04:48.020020",
      "status": "completed"
     },
     "tags": []
@@ -313,13 +313,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b6c8abed",
+   "id": "078c1208",
    "metadata": {
     "papermill": {
-     "duration": 0.055842,
-     "end_time": "2022-01-08T08:35:11.718077",
+     "duration": 0.074556,
+     "end_time": "2022-01-08T17:04:48.372401",
      "exception": false,
-     "start_time": "2022-01-08T08:35:11.662235",
+     "start_time": "2022-01-08T17:04:48.297845",
      "status": "completed"
     },
     "tags": []
@@ -331,19 +331,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "41dded7f",
+   "id": "2dcde7f5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-01-08T08:35:11.835613Z",
-     "iopub.status.busy": "2022-01-08T08:35:11.834117Z",
-     "iopub.status.idle": "2022-01-08T08:35:11.889657Z",
-     "shell.execute_reply": "2022-01-08T08:35:11.888223Z"
+     "iopub.execute_input": "2022-01-08T17:04:48.530492Z",
+     "iopub.status.busy": "2022-01-08T17:04:48.527965Z",
+     "iopub.status.idle": "2022-01-08T17:04:48.594738Z",
+     "shell.execute_reply": "2022-01-08T17:04:48.592810Z"
     },
     "papermill": {
-     "duration": 0.1159,
-     "end_time": "2022-01-08T08:35:11.889818",
+     "duration": 0.146358,
+     "end_time": "2022-01-08T17:04:48.594905",
      "exception": false,
-     "start_time": "2022-01-08T08:35:11.773918",
+     "start_time": "2022-01-08T17:04:48.448547",
      "status": "completed"
     },
     "tags": []
@@ -413,13 +413,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "549c702a",
+   "id": "74b730d1",
    "metadata": {
     "papermill": {
-     "duration": 0.058121,
-     "end_time": "2022-01-08T08:35:12.007527",
+     "duration": 0.077091,
+     "end_time": "2022-01-08T17:04:48.749403",
      "exception": false,
-     "start_time": "2022-01-08T08:35:11.949406",
+     "start_time": "2022-01-08T17:04:48.672312",
      "status": "completed"
     },
     "tags": []
@@ -443,13 +443,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6f6c2bce",
+   "id": "76192707",
    "metadata": {
     "papermill": {
-     "duration": 0.057632,
-     "end_time": "2022-01-08T08:35:12.124329",
+     "duration": 0.077722,
+     "end_time": "2022-01-08T17:04:48.903624",
      "exception": false,
-     "start_time": "2022-01-08T08:35:12.066697",
+     "start_time": "2022-01-08T17:04:48.825902",
      "status": "completed"
     },
     "tags": []
@@ -462,19 +462,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "cc28eb02",
+   "id": "702caf50",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-01-08T08:35:12.246833Z",
-     "iopub.status.busy": "2022-01-08T08:35:12.244748Z",
-     "iopub.status.idle": "2022-01-08T08:35:12.341801Z",
-     "shell.execute_reply": "2022-01-08T08:35:12.339917Z"
+     "iopub.execute_input": "2022-01-08T17:04:49.068830Z",
+     "iopub.status.busy": "2022-01-08T17:04:49.066551Z",
+     "iopub.status.idle": "2022-01-08T17:04:49.180839Z",
+     "shell.execute_reply": "2022-01-08T17:04:49.179111Z"
     },
     "papermill": {
-     "duration": 0.159906,
-     "end_time": "2022-01-08T08:35:12.341950",
+     "duration": 0.198514,
+     "end_time": "2022-01-08T17:04:49.180988",
      "exception": false,
-     "start_time": "2022-01-08T08:35:12.182044",
+     "start_time": "2022-01-08T17:04:48.982474",
      "status": "completed"
     },
     "tags": []
@@ -555,19 +555,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "3b0e1404",
+   "id": "37294111",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-01-08T08:35:12.473419Z",
-     "iopub.status.busy": "2022-01-08T08:35:12.471233Z",
-     "iopub.status.idle": "2022-01-08T08:35:12.954810Z",
-     "shell.execute_reply": "2022-01-08T08:35:12.953939Z"
+     "iopub.execute_input": "2022-01-08T17:04:49.345706Z",
+     "iopub.status.busy": "2022-01-08T17:04:49.343754Z",
+     "iopub.status.idle": "2022-01-08T17:04:49.847084Z",
+     "shell.execute_reply": "2022-01-08T17:04:49.846440Z"
     },
     "papermill": {
-     "duration": 0.550688,
-     "end_time": "2022-01-08T08:35:12.954961",
+     "duration": 0.587636,
+     "end_time": "2022-01-08T17:04:49.847214",
      "exception": false,
-     "start_time": "2022-01-08T08:35:12.404273",
+     "start_time": "2022-01-08T17:04:49.259578",
      "status": "completed"
     },
     "tags": []
@@ -606,13 +606,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d6771e7a",
+   "id": "4cca198e",
    "metadata": {
     "papermill": {
-     "duration": 0.068384,
-     "end_time": "2022-01-08T08:35:13.093590",
+     "duration": 0.085116,
+     "end_time": "2022-01-08T17:04:50.018695",
      "exception": false,
-     "start_time": "2022-01-08T08:35:13.025206",
+     "start_time": "2022-01-08T17:04:49.933579",
      "status": "completed"
     },
     "tags": []
@@ -623,13 +623,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3b4cb393",
+   "id": "a9ef87df",
    "metadata": {
     "papermill": {
-     "duration": 0.066894,
-     "end_time": "2022-01-08T08:35:13.227519",
+     "duration": 0.0854,
+     "end_time": "2022-01-08T17:04:50.190899",
      "exception": false,
-     "start_time": "2022-01-08T08:35:13.160625",
+     "start_time": "2022-01-08T17:04:50.105499",
      "status": "completed"
     },
     "tags": []
@@ -643,19 +643,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "7eaa05f9",
+   "id": "a75900bf",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-01-08T08:35:13.371260Z",
-     "iopub.status.busy": "2022-01-08T08:35:13.369358Z",
-     "iopub.status.idle": "2022-01-08T08:35:14.947414Z",
-     "shell.execute_reply": "2022-01-08T08:35:14.947945Z"
+     "iopub.execute_input": "2022-01-08T17:04:50.365944Z",
+     "iopub.status.busy": "2022-01-08T17:04:50.364013Z",
+     "iopub.status.idle": "2022-01-08T17:04:51.914354Z",
+     "shell.execute_reply": "2022-01-08T17:04:51.914838Z"
     },
     "papermill": {
-     "duration": 1.653806,
-     "end_time": "2022-01-08T08:35:14.948112",
+     "duration": 1.639962,
+     "end_time": "2022-01-08T17:04:51.915001",
      "exception": false,
-     "start_time": "2022-01-08T08:35:13.294306",
+     "start_time": "2022-01-08T17:04:50.275039",
      "status": "completed"
     },
     "tags": []
@@ -681,13 +681,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e66d9522",
+   "id": "f9ab566b",
    "metadata": {
     "papermill": {
-     "duration": 0.077285,
-     "end_time": "2022-01-08T08:35:15.099658",
+     "duration": 0.093764,
+     "end_time": "2022-01-08T17:04:52.102479",
      "exception": false,
-     "start_time": "2022-01-08T08:35:15.022373",
+     "start_time": "2022-01-08T17:04:52.008715",
      "status": "completed"
     },
     "tags": []
@@ -708,19 +708,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "5c4145ef",
+   "id": "372bd55a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-01-08T08:35:15.255388Z",
-     "iopub.status.busy": "2022-01-08T08:35:15.252670Z",
-     "iopub.status.idle": "2022-01-08T08:35:16.550346Z",
-     "shell.execute_reply": "2022-01-08T08:35:16.548261Z"
+     "iopub.execute_input": "2022-01-08T17:04:52.292692Z",
+     "iopub.status.busy": "2022-01-08T17:04:52.290460Z",
+     "iopub.status.idle": "2022-01-08T17:04:53.772078Z",
+     "shell.execute_reply": "2022-01-08T17:04:53.770635Z"
     },
     "papermill": {
-     "duration": 1.377429,
-     "end_time": "2022-01-08T08:35:16.550546",
+     "duration": 1.578112,
+     "end_time": "2022-01-08T17:04:53.772277",
      "exception": false,
-     "start_time": "2022-01-08T08:35:15.173117",
+     "start_time": "2022-01-08T17:04:52.194165",
      "status": "completed"
     },
     "tags": []
@@ -792,13 +792,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7f38b344",
+   "id": "ada1193b",
    "metadata": {
     "papermill": {
-     "duration": 0.083775,
-     "end_time": "2022-01-08T08:35:16.718902",
+     "duration": 0.107726,
+     "end_time": "2022-01-08T17:04:53.987319",
      "exception": false,
-     "start_time": "2022-01-08T08:35:16.635127",
+     "start_time": "2022-01-08T17:04:53.879593",
      "status": "completed"
     },
     "tags": []
@@ -812,7 +812,7 @@
     "\n",
     "Age vs Pclass (in theory, older aged people should have more money and therefore a lower number Pclass)\n",
     "\n",
-    "Age vs Sex (see whether there is a significant in age between sexes)\n",
+    "Age vs Sex (see whether there is a significant difference in age between sexes)\n",
     "\n",
     "The other variables don't seem to be too correlated."
    ]
@@ -820,19 +820,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "6efda470",
+   "id": "e46502b9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-01-08T08:35:16.892864Z",
-     "iopub.status.busy": "2022-01-08T08:35:16.890871Z",
-     "iopub.status.idle": "2022-01-08T08:35:17.659628Z",
-     "shell.execute_reply": "2022-01-08T08:35:17.657866Z"
+     "iopub.execute_input": "2022-01-08T17:04:54.204384Z",
+     "iopub.status.busy": "2022-01-08T17:04:54.202869Z",
+     "iopub.status.idle": "2022-01-08T17:04:54.925316Z",
+     "shell.execute_reply": "2022-01-08T17:04:54.923891Z"
     },
     "papermill": {
-     "duration": 0.857888,
-     "end_time": "2022-01-08T08:35:17.659786",
+     "duration": 0.832912,
+     "end_time": "2022-01-08T17:04:54.925478",
      "exception": false,
-     "start_time": "2022-01-08T08:35:16.801898",
+     "start_time": "2022-01-08T17:04:54.092566",
      "status": "completed"
     },
     "tags": []
@@ -877,6 +877,366 @@
     "ggplot(train.data,aes(x=Pclass,y=Age)) + geom_boxplot(aes(fill=Pclass))\n",
     "ggplot(train.data,aes(x=Sex,y=Age)) + geom_boxplot(aes(fill=Sex))"
    ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f8feed65",
+   "metadata": {
+    "papermill": {
+     "duration": 0.108012,
+     "end_time": "2022-01-08T17:04:55.142448",
+     "exception": false,
+     "start_time": "2022-01-08T17:04:55.034436",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "Looks like there is a significant difference in Age according to the Pclass, while as for Sex, the average age is more or less the same between both sexes. I will use the median age based on Pclass to impute the missing age data."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "0486c105",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-01-08T17:04:55.364710Z",
+     "iopub.status.busy": "2022-01-08T17:04:55.363057Z",
+     "iopub.status.idle": "2022-01-08T17:04:55.398019Z",
+     "shell.execute_reply": "2022-01-08T17:04:55.396316Z"
+    },
+    "papermill": {
+     "duration": 0.1472,
+     "end_time": "2022-01-08T17:04:55.398160",
+     "exception": false,
+     "start_time": "2022-01-08T17:04:55.250960",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<span style=white-space:pre-wrap>'Median Age for Pclass 1 is:  37'</span>"
+      ],
+      "text/latex": [
+       "'Median Age for Pclass 1 is:  37'"
+      ],
+      "text/markdown": [
+       "<span style=white-space:pre-wrap>'Median Age for Pclass 1 is:  37'</span>"
+      ],
+      "text/plain": [
+       "[1] \"Median Age for Pclass 1 is:  37\""
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<span style=white-space:pre-wrap>'Median Age for Pclass 2 is:  29'</span>"
+      ],
+      "text/latex": [
+       "'Median Age for Pclass 2 is:  29'"
+      ],
+      "text/markdown": [
+       "<span style=white-space:pre-wrap>'Median Age for Pclass 2 is:  29'</span>"
+      ],
+      "text/plain": [
+       "[1] \"Median Age for Pclass 2 is:  29\""
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<span style=white-space:pre-wrap>'Median Age for Pclass 3 is:  24'</span>"
+      ],
+      "text/latex": [
+       "'Median Age for Pclass 3 is:  24'"
+      ],
+      "text/markdown": [
+       "<span style=white-space:pre-wrap>'Median Age for Pclass 3 is:  24'</span>"
+      ],
+      "text/plain": [
+       "[1] \"Median Age for Pclass 3 is:  24\""
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Getting the median age based on Pclass\n",
+    "paste(\"Median Age for Pclass 1 is: \", median(subset(train.data$Age, train.data$Pclass == 1 & train.data$Age != \"NA\")))\n",
+    "paste(\"Median Age for Pclass 2 is: \", median(subset(train.data$Age, train.data$Pclass == 2 & train.data$Age != \"NA\")))\n",
+    "paste(\"Median Age for Pclass 3 is: \", median(subset(train.data$Age, train.data$Pclass == 3 & train.data$Age != \"NA\")))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "dd190143",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-01-08T17:04:55.638290Z",
+     "iopub.status.busy": "2022-01-08T17:04:55.636443Z",
+     "iopub.status.idle": "2022-01-08T17:04:55.678887Z",
+     "shell.execute_reply": "2022-01-08T17:04:55.676948Z"
+    },
+    "papermill": {
+     "duration": 0.164188,
+     "end_time": "2022-01-08T17:04:55.679045",
+     "exception": false,
+     "start_time": "2022-01-08T17:04:55.514857",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "FALSE"
+      ],
+      "text/latex": [
+       "FALSE"
+      ],
+      "text/markdown": [
+       "FALSE"
+      ],
+      "text/plain": [
+       "[1] FALSE"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "FALSE"
+      ],
+      "text/latex": [
+       "FALSE"
+      ],
+      "text/markdown": [
+       "FALSE"
+      ],
+      "text/plain": [
+       "[1] FALSE"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Imputing median age to missing data for train data\n",
+    "train.data$Age[is.na(train.data$Age) & train.data$Pclass == 1] <- 37\n",
+    "train.data$Age[is.na(train.data$Age) & train.data$Pclass == 2] <- 29\n",
+    "train.data$Age[is.na(train.data$Age) & train.data$Pclass == 3] <- 24\n",
+    "\n",
+    "#Imputing median age to missing data for test data\n",
+    "test.data$Age[is.na(test.data$Age) & test.data$Pclass == 1] <- 37\n",
+    "test.data$Age[is.na(test.data$Age) & test.data$Pclass == 2] <- 29\n",
+    "test.data$Age[is.na(test.data$Age) & test.data$Pclass == 3] <- 24\n",
+    "\n",
+    "#Checking for missing age data\n",
+    "any(is.na(train.data$Age))\n",
+    "any(is.na(test.data$Age))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4c4e8266",
+   "metadata": {
+    "papermill": {
+     "duration": 0.122234,
+     "end_time": "2022-01-08T17:04:55.925618",
+     "exception": false,
+     "start_time": "2022-01-08T17:04:55.803384",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### 3.2.3 Fare\n",
+    "There is only 1 missing fare in our test data, let's look at its characteristics."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "b362a5ee",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-01-08T17:04:56.178918Z",
+     "iopub.status.busy": "2022-01-08T17:04:56.176652Z",
+     "iopub.status.idle": "2022-01-08T17:04:56.203112Z",
+     "shell.execute_reply": "2022-01-08T17:04:56.201542Z"
+    },
+    "papermill": {
+     "duration": 0.153528,
+     "end_time": "2022-01-08T17:04:56.203280",
+     "exception": false,
+     "start_time": "2022-01-08T17:04:56.049752",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A data.frame: 1 × 7</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>Pclass</th><th scope=col>Sex</th><th scope=col>Age</th><th scope=col>SibSp</th><th scope=col>Parch</th><th scope=col>Fare</th><th scope=col>Dependents</th></tr>\n",
+       "\t<tr><th></th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>153</th><td>3</td><td>male</td><td>60.5</td><td>0</td><td>0</td><td>NA</td><td>0</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A data.frame: 1 × 7\n",
+       "\\begin{tabular}{r|lllllll}\n",
+       "  & Pclass & Sex & Age & SibSp & Parch & Fare & Dependents\\\\\n",
+       "  & <int> & <chr> & <dbl> & <int> & <int> & <dbl> & <int>\\\\\n",
+       "\\hline\n",
+       "\t153 & 3 & male & 60.5 & 0 & 0 & NA & 0\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A data.frame: 1 × 7\n",
+       "\n",
+       "| <!--/--> | Pclass &lt;int&gt; | Sex &lt;chr&gt; | Age &lt;dbl&gt; | SibSp &lt;int&gt; | Parch &lt;int&gt; | Fare &lt;dbl&gt; | Dependents &lt;int&gt; |\n",
+       "|---|---|---|---|---|---|---|---|\n",
+       "| 153 | 3 | male | 60.5 | 0 | 0 | NA | 0 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "    Pclass Sex  Age  SibSp Parch Fare Dependents\n",
+       "153 3      male 60.5 0     0     NA   0         "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "test.data[is.na(test.data$Fare) == TRUE,]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d5acc387",
+   "metadata": {
+    "papermill": {
+     "duration": 0.123058,
+     "end_time": "2022-01-08T17:04:56.452908",
+     "exception": false,
+     "start_time": "2022-01-08T17:04:56.329850",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "Looks like he is staying in Pclass 3, I will impute the average cabin fare for Pclass 3 for this missing value."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "b9a36e85",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-01-08T17:04:56.712597Z",
+     "iopub.status.busy": "2022-01-08T17:04:56.710921Z",
+     "iopub.status.idle": "2022-01-08T17:04:56.736594Z",
+     "shell.execute_reply": "2022-01-08T17:04:56.735019Z"
+    },
+    "papermill": {
+     "duration": 0.157045,
+     "end_time": "2022-01-08T17:04:56.736756",
+     "exception": false,
+     "start_time": "2022-01-08T17:04:56.579711",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "FALSE"
+      ],
+      "text/latex": [
+       "FALSE"
+      ],
+      "text/markdown": [
+       "FALSE"
+      ],
+      "text/plain": [
+       "[1] FALSE"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "FALSE"
+      ],
+      "text/latex": [
+       "FALSE"
+      ],
+      "text/markdown": [
+       "FALSE"
+      ],
+      "text/plain": [
+       "[1] FALSE"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Imputing the mean fare for Pclass 3\n",
+    "test.data[is.na(test.data$Fare) == TRUE,] <- mean(subset(train.data$Fare, train.data$Pclass == 3))\n",
+    "\n",
+    "#Final check of missing data\n",
+    "any(is.na(train.data))\n",
+    "any(is.na(test.data))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1521a824",
+   "metadata": {
+    "papermill": {
+     "duration": 0.133102,
+     "end_time": "2022-01-08T17:04:57.003748",
+     "exception": false,
+     "start_time": "2022-01-08T17:04:56.870646",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "# 4.0 Building a Logistic Regression Model\n",
+    "Finally, we have finished our EDA and imputation for missing values. Now we can start building our model, which should be relatively quick."
+   ]
   }
  ],
  "metadata": {
@@ -895,14 +1255,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 10.800148,
-   "end_time": "2022-01-08T08:35:17.880164",
+   "duration": 13.932888,
+   "end_time": "2022-01-08T17:04:57.251732",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-01-08T08:35:07.080016",
+   "start_time": "2022-01-08T17:04:43.318844",
    "version": "2.3.3"
   }
  },
